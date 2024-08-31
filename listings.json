@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/slides/slide-01-fundamentals.html",
+      "/slides/slide-02-graphics.html",
+      "/slides/slide-03-starting-ggplot2.html",
+      "/slides/slide-04-multiple-layers.html",
+      "/slides/slide-05-barplots.html",
+      "/slides/slide-06-scales.html",
+      "/slides/slide-07-coordinate.html",
+      "/slides/slide-08-mulitple-plots.html",
+      "/slides/slide-09-annotations.html",
+      "/slides/slide-10-publication-ready-plots.html",
+      "/slides/slide-11-export.html",
+      "/slides/slide-12-effective-vis.html",
+      "/exercises/exercise-01-fundamentals.html",
+      "/exercises/exercise-02.html"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+/* css styles */
+.panel-noborder.panel-tabset > .nav-tabs,
+.panel-noborder.panel-tabset > .tab-content {
+        border: none;
+}
+
+.ba {
+  border: 3px solid black;
+}
